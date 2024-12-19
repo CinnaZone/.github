@@ -1,1 +1,2 @@
-# This was recently made so this will be just a placeholder for now
+# A github group where we make random stuff
+The stuff in question could be both good and bad, we ourselfs dont know.
